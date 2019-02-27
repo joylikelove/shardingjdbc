@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a7b4709-fdf0-422a-ae70-12879bf1c84c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shardingjdbc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/javacode/src/main/java/cn/denglongjiao/demo/shardingjdbc/three/javacode/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/three/javacode/src/main/java/cn/denglongjiao/demo/shardingjdbc/three/javacode/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/master-slave.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/src/main/java/cn/denglongjiao/demo/shardingjdbc/three/masterslave/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/src/main/java/cn/denglongjiao/demo/shardingjdbc/three/masterslave/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/target/master-slave-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/target/master-slave-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/target/master-slave-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/target/master-slave-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/master-slave/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/three/master-slave/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/properties.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/three/properties/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/three/properties/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/three/properties/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/target/properties-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/three/properties/target/properties-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/properties/target/properties-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/three/properties/target/properties-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/three.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/yaml/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/three/yaml/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/yaml/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/three/yaml/target/classes/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/three/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/three/master-slave/target/" />
+    <ignored path="$PROJECT_DIR$/three/properties/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1599283424">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>120</find>
+      <find>120.77</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shardingjdbc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1337" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="javacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a7b4709-fdf0-422a-ae70-12879bf1c84c" name="Default Changelist" comment="" />
+      <created>1551273556795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551273556795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32962668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: cn.denglongjiao.demo.shardingjdbc.three.yaml.YamlApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.207 s <<< FAILURE! - in cn.denglongjiao.demo.shardingjdbc.three.yaml.YamlApplicationTests
+queryAll(cn.denglongjiao.demo.shardingjdbc.three.yaml.YamlApplicationTests)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+Caused by: org.yaml.snakeyaml.constructor.ConstructorException: 
+Can't construct a java object for tag:yaml.org,2002:org.apache.commons.dbcp.BasicDataSource; exception=Class not found: org.apache.commons.dbcp.BasicDataSource
+ in 'reader', line 2, column 8:
+      ds0: !!org.apache.commons.dbcp.BasicD ... 
+           ^
+
+Caused by: org.yaml.snakeyaml.error.YAMLException: Class not found: org.apache.commons.dbcp.BasicDataSource
+
+add(cn.denglongjiao.demo.shardingjdbc.three.yaml.YamlApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to load property source from location 'classpath:/application.yml'
+Caused by: org.yaml.snakeyaml.constructor.ConstructorException: 
+Can't construct a java object for tag:yaml.org,2002:org.apache.commons.dbcp.BasicDataSource; exception=Class not found: org.apache.commons.dbcp.BasicDataSource
+ in 'reader', line 2, column 8:
+      ds0: !!org.apache.commons.dbcp.BasicD ... 
+           ^
+
+Caused by: org.yaml.snakeyaml.error.YAMLException: Class not found: org.apache.commons.dbcp.BasicDataSource
+
